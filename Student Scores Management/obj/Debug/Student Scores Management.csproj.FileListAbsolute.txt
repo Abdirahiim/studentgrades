@@ -1,0 +1,37 @@
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\Student Scores Management.exe.config
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\Student Scores Management.exe
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\Student Scores Management.pdb
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\MaterialSkin.dll
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\obj\Debug\Student Scores Management.csprojAssemblyReference.cache
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\obj\Debug\Student_Scores_Management.Form1.resources
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\obj\Debug\Student_Scores_Management.Properties.Resources.resources
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\obj\Debug\Student Scores Management.csproj.GenerateResource.cache
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\obj\Debug\Student Scores Management.csproj.CoreCompileInputs.cache
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\obj\Debug\Student Scores Management.csproj.CopyComplete
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\obj\Debug\Student Scores Management.exe
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\obj\Debug\Student Scores Management.pdb
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\obj\Debug\Student Scores Management.csproj.App.config
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\FireSharp.dll
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\RestSharp.dll
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\RestSharp.xml
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Abdirahiim\source\repos\Student Scores Management\Student Scores Management\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Abdirahiim\source\repos\Student Grade Management\Student Scores Management\obj\Debug\Student Scores Management.csproj.App.config
+C:\Users\Abdirahiim\source\repos\Student Grade Management\Student Scores Management\obj\Debug\Student Scores Management.csprojAssemblyReference.cache
+C:\Users\Abdirahiim\source\repos\Student Grade Management\Student Scores Management\obj\Debug\Student_Scores_Management.Form1.resources
+C:\Users\Abdirahiim\source\repos\Student Grade Management\Student Scores Management\obj\Debug\Student_Scores_Management.Properties.Resources.resources
+C:\Users\Abdirahiim\source\repos\Student Grade Management\Student Scores Management\obj\Debug\Student Scores Management.csproj.GenerateResource.cache
+C:\Users\Abdirahiim\source\repos\Student Grade Management\Student Scores Management\obj\Debug\Student Scores Management.csproj.CoreCompileInputs.cache
+C:\Users\Abdirahiim\source\repos\Student Grade Management\Student Scores Management\obj\Debug\Student Scores Management.exe
+C:\Users\Abdirahiim\source\repos\Student Grade Management\Student Scores Management\obj\Debug\Student Scores Management.pdb
