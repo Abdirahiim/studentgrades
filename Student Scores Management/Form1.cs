@@ -28,6 +28,14 @@ namespace Student_Scores_Management
 
         IFirebaseClient client;
 
+        //checks for an internet connection
+        [DllImport("wininet.dll")]
+        private extern static bool InternetGetConnectedState(out int description, int reservedValue);
+
+        public static bool IsInternetAvailable()
+        {
+            return InternetGetConnectedState(out int description, 0);
+        }
 
         public Form1()
         {
@@ -82,16 +90,7 @@ namespace Student_Scores_Management
             MessageBox.Show("Data Retrieved");
 
         }
-        //checks for an internet connection
-        [DllImport("wininet.dll")]
-        private extern static bool InternetGetConnectedState(out int description, int reservedValue);
-
-        public static bool IsInternetAvailable()
-        {
-            int description;
-            return InternetGetConnectedState(out description, 0);
-        }
-
+       
         private async void materialFlatButton1_Click(object sender, EventArgs e)
         {
             //deletes an entry from the DB
